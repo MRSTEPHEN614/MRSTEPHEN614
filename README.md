@@ -1,6 +1,6 @@
 # Hi, I'm Stephen 👋
 
-I'm an IT student at Ghana Communication Technology University, building practical skills in programming, software development, and data analytics.
+I'm a young developer building practical skills in programming, software development, and data analytics.
 
 ## About Me
 
